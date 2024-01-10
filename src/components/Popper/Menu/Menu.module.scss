@@ -1,0 +1,54 @@
+.menu-list {
+  width: 230px;
+  .menu-item {
+    margin-left: 0;
+  }
+}
+
+.menu-popper {
+  display: grid;
+  padding-bottom: 8px;
+}
+
+.menu-scroll {
+  overflow-y: overlay;
+}
+
+.menu-item {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 11px 16px;
+  line-height: 1.8rem;
+
+  &:hover {
+    background-color: rgba(22, 24, 35, 0.03);
+  }
+}
+
+.separate {
+  border-top: 1px solid rgba(22, 24, 35, 0.12);
+}
+
+// Header
+.header {
+  position: relative;
+  height: 50px;
+  margin-top: -8px;
+  flex-shrink: 0;
+}
+.back-btn {
+  margin-top: 4px;
+  width: 50px;
+  height: 100%;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+.header-title {
+  position: absolute;
+  top: 34%;
+  left: 34%;
+}

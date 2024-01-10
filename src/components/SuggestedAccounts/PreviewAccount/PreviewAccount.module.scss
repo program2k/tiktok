@@ -1,0 +1,27 @@
+.wrapper {
+  padding: 20px;
+  min-width: 320px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.preview-item-info {
+  padding: 18px 0;
+}
+
+.preview-nickname {
+  font-size: 1.8rem;
+}
+
+.preview-name {
+  font-size: 1.6rem;
+  padding-bottom: 12px;
+}
+
+.followers {
+  margin: 8px 12px 0 0;
+}
