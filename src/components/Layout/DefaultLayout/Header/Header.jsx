@@ -150,7 +150,7 @@ export default function Header() {
             {currentUser ? (
               <img
                 className={cx("user-avatar")}
-                src="https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d3cb8a57dde76b512e90dabc75b7a0ec.jpeg?x-expires=1704639600&x-signature=AfPyNogcjm71lP4U1e5YHIhkmKU%3D"
+                src="https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1d6ed1aa4a40477a5d056e30897c3991.jpeg?lk3s=a5d48078&x-expires=1705204800&x-signature=JhY8goTTDOtksVctdY95967MM%2FA%3D"
                 alt="Avatar"
               />
             ) : (

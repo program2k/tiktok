@@ -31,7 +31,7 @@ export default function AccountItem() {
         <div className={cx("account-item")}>
           <img
             className="avatar"
-            src="https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/37fecb6b88f8b37f78603689a4e9da84~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1704859200&x-signature=S16NBhBDsuNf0HUj6nneIccfqU8%3D"
+            src="https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/1d6ed1aa4a40477a5d056e30897c3991.jpeg?lk3s=a5d48078&x-expires=1705204800&x-signature=JhY8goTTDOtksVctdY95967MM%2FA%3D"
             alt=""
           />
           <div className={cx("item-info")}>
